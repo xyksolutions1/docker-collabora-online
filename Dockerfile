@@ -1,4 +1,4 @@
-FROM docker.io/tiredofit/debian:bookworm as builder
+FROM docker.io/xyksolutions1/docker-debian:main
 LABEL maintainer="Dave Conroy (dave at tiredofit dot ca)"
 LABEL org.opencontainers.image.source="https://github.com/tiredofit/docker-collabora-online"
 
